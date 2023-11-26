@@ -3,7 +3,7 @@
 Схема энкодера архитектуры Трансформер. Основная идея визуализации - уместить на одной диаграмме весь энкодер Трансформера, сохранив при этом все важные детали. Сделана в draw.io, [ссылка](https://drive.google.com/file/d/1D21djqdpxG8tia3Zig9O_FsiL65IT89S/view?usp=sharing) для создания копий и редактирования.
 
 
-Визуализация основана на материалах лекций курса [Stanford CS224N NLP with Deep Learning](https://youtu.be/LWMzyfvuehA?si=JXTS_xrP1rU7QNOK), [блога](http://jalammar.github.io/illustrated-transformer/) Jay Alammar, а также [видео-туториала](https://youtu.be/kCc8FmEb1nY?si=fSZvQs9DXcFO6AoU) и реализации модели [nanoGPT](https://github.com/karpathy/nanoGPT) Андрея Карпатого.
+Визуализация основана на материалах лекций курса [Stanford CS224N NLP with Deep Learning](https://youtu.be/LWMzyfvuehA?si=JXTS_xrP1rU7QNOK), [блога](http://jalammar.github.io/illustrated-transformer/) Jay Alammar, а также [видео-туториала](https://youtu.be/kCc8FmEb1nY?si=fSZvQs9DXcFO6AoU) и реализации модели [nanoGPT](https://github.com/karpathy/nanoGPT) Andrej Karpathy.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
